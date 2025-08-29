@@ -1,6 +1,12 @@
 # Phillips-Curve-Data-Visualization
 The Phillips Curve is an economic model that predicts an inverse relationship between unemployment and inflation in the short run. That is to say, if unemployment decreases, then inflation increases and vice versa. This project uses unemployment and inflation data from 1948 to 2025 to plot both the inflation rate and unemployment rate from that time period and plots the Phillips Curve during periods of economic significance. 
 
+## Datasets
+
+[U.S. Unemployment Rate (UNRATE) - FRED](https://fred.stlouisfed.org/series/UNRATE)
+[Consumer Price Index for All Urban Consumers: All Items in U.S. City Average (CPIAUCSL) - FRED]([https://fred.stlouisfed.org/series/UNRATE](https://fred.stlouisfed.org/series/CPIAUCSL))
+
+
 ## Phillips Curve during postwar recovery (1948-1953)
 ![1948 - 1953](Graphs/Figure_1.png)
 
