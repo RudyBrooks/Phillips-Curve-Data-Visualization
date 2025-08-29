@@ -4,7 +4,8 @@ The Phillips Curve is an economic model that predicts an inverse relationship be
 ## Datasets
 
 [U.S. Unemployment Rate (UNRATE) - FRED](https://fred.stlouisfed.org/series/UNRATE)
-[Consumer Price Index for All Urban Consumers: All Items in U.S. City Average (CPIAUCSL) - FRED]([https://fred.stlouisfed.org/series/UNRATE](https://fred.stlouisfed.org/series/CPIAUCSL))
+
+[Consumer Price Index for All Urban Consumers: All Items in U.S. City Average (CPIAUCSL) - FRED](https://fred.stlouisfed.org/series/CPIAUCSL)
 
 
 ## Phillips Curve during postwar recovery (1948-1953)
