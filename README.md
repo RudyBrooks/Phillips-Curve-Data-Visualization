@@ -4,17 +4,17 @@ The Phillips Curve is an economic model that predicts an inverse relationship be
 ## Phillips Curve during postwar recovery (1948-1953)
 ![1948 - 1953](Graphs/Figure_1.png)
 
-// Phillips Curve holds true and shows a negative slope
+Phillips Curve holds true and shows a negative slope
 
 ## Phillips Curve during 1970s oli shock (1973-1975)
 ![1973 - 1975](Graphs/Figure_2.png)
 
-// Phillips Curve breaks down as inflation and employment rise together
+Phillips Curve breaks down as inflation and employment rise together
 
 ## Phillips Curve during late 1970s (1975-1979)
 ![1975 - 1979](Graphs/Figure_3.png)
 
-// Phillips Curve continues to break down with a positive slope
+Phillips Curve continues to break down with a positive slope
 
 ## Phillips Curve during early 1980s (1980-1983)
 ![1980 - 1983](Graphs/Figure_4.png)
