@@ -38,5 +38,5 @@ Phillips Curve continues to break down with a positive slope
 ## Phillips Curve post COVID-19 Pandemic (2023-2025)
 ![2023 - 2025](Graphs/Figure_8.png)
 
-## Time Series Graph of unemployment and inflation rate from 1948 to 2025 (2023-2025)
+## Time Series Graph of unemployment and inflation rate from 1948 to 2025
 ![1948 - 2025](Graphs/Figure_9.png)
